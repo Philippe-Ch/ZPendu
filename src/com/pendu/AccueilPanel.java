@@ -24,7 +24,7 @@ public class AccueilPanel extends JPanel {
 		// Affichage titre
 		JLabel titre = new JLabel("Bienvenue dans le jeu du pendu\n");
 		titre.setHorizontalAlignment(JLabel.CENTER);
-		titre.setFont(new Font("Comics Sans MS", Font.BOLD, 20));
+		titre.setFont(new Font("Comics Sans MS", Font.BOLD, 30));
 		panel.add(titre, BorderLayout.NORTH);
 	
 		// Affichage image
